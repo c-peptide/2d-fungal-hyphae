@@ -1,0 +1,1 @@
+Generates 2d hyphae structures, output as PNGs to the folder the script is located in. Parameters of interest are at the top of the file. Used on Phython 3.7.10.
